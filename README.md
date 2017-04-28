@@ -8,5 +8,6 @@ Write a program to convert double to float.<br><br>
 Program 4:<br>
 Write a program to print size of all data types.<br><br>
 Program 5:<br>
-Write a program to convert decimal to octal number.
+Write a program to convert decimal to octal number.<br><br>
+Program 6:<br>
 
