@@ -12,5 +12,4 @@ Write a program to convert decimal to octal number.<br><br>
 Program 6:<br>
 Write a program to convert decimal to hexa decimal number.<br><br>
 Program 7:<br>
-
-
+Write a program to print formatted output.
