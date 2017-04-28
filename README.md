@@ -10,6 +10,7 @@ Write a program to print size of all data types.<br><br>
 Program 5:<br>
 Write a program to convert decimal to octal number.<br><br>
 Program 6:<br>
-Write a program to convert decimal to hexa decimal number.
+Write a program to convert decimal to hexa decimal number.<br><br>
+Program 7:<br>
 
 
