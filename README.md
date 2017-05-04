@@ -12,4 +12,6 @@ Write a program to convert decimal to octal number.<br><br>
 Program 6:<br>
 Write a program to convert decimal to hexa decimal number.<br><br>
 Program 7:<br>
-Write a program to print formatted output.
+Write a program to print formatted output.<br><br>
+Program 8:<br>
+Write a program to print nth bit of number.
