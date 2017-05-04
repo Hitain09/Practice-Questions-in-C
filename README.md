@@ -16,4 +16,4 @@ Write a program to print formatted output.<br><br>
 Program 8:<br>
 Write a program to print nth bit of number.<br><br>
 Program 9:<br>
-
+WAP to find the number of trailing zeros in a given integer.
