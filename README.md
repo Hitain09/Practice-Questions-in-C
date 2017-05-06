@@ -20,3 +20,4 @@ WAP to find the number of trailing zeros in a given integer.<br><br>
 Program 10:<br>
 WAP to find the number of trailing zeros in a given integer in binary.<br><br>
 Program 11:<br>
+Program to Check if a given Integer is Power of 2 using Bitwise Operators.<br><br>
