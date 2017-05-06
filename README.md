@@ -24,3 +24,4 @@ Program to Check if a given Integer is Power of 2 using Bitwise Operators.<br><b
 Program 12:<br>
 WAP to swap two numbers using bitwise XOR Operator.<br><br>
 Program 13:<br>
+WAP to find the factorial of a number, where the number is entered by user.
