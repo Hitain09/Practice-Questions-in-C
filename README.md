@@ -18,4 +18,5 @@ Write a program to print nth bit of number.<br><br>
 Program 9:<br>
 WAP to find the number of trailing zeros in a given integer.<br><br>
 Program 10:<br>
-WAP to find the number of trailing zeros in a given integer in binary.
+WAP to find the number of trailing zeros in a given integer in binary.<br><br>
+Program 11:<br>
