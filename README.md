@@ -22,3 +22,4 @@ WAP to find the number of trailing zeros in a given integer in binary.<br><br>
 Program 11:<br>
 Program to Check if a given Integer is Power of 2 using Bitwise Operators.<br><br>
 Program 12:<br>
+WAP to swap two numbers using bitwise XOR Operator.
