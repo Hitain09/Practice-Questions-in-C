@@ -30,3 +30,4 @@ WAP to check whether a number is palindrome or not.<br><br>
 Program 15:<br>
 WAP to calulate GCD of two numbers using Euclid’s algorithm.WAP to calculate GCD of two numbers using Euclid’s algorithm.<br><br>
 Program 16:<br>
+WAP to find first 100 prime numbers (using square root method). Note: Compare it with other methods and its effectiveness over other method.
