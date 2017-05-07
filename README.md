@@ -28,4 +28,4 @@ WAP to find the factorial of a number, where the number is entered by user.<br><
 Program 14:<br>
 WAP to check whether a number is palindrome or not.<br><br>
 Program 15:<br>
-WAP to calulate GCD of two numbers using Euclid’s algorithm.WAP to calculate GCD of two numbers using Euclid’s algorithm.<br>
+WAP to calulate GCD of two numbers using Euclid’s algorithm.WAP to calculate GCD of two numbers using Euclid’s algorithm.
