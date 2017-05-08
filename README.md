@@ -32,3 +32,4 @@ WAP to calulate GCD of two numbers using Euclid’s algorithm.WAP to calculate G
 Program 16:<br>
 WAP to find first 100 prime numbers (using square root method). Note: Compare it with other methods and its effectiveness over other method.<br><br>
 Program 17:<br>
+WAP to Display Fibonacci Series.
