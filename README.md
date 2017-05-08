@@ -34,3 +34,4 @@ WAP to find first 100 prime numbers (using square root method). Note: Compare it
 Program 17:<br>
 WAP to Display Fibonacci Series.<br><br>
 Program 18:<br>
+WAP to find whether a number is Armstrong or not.
