@@ -38,4 +38,5 @@ WAP to find whether a number is Armstrong or not.<br><br>
 Program 19:<br>
 WAP to Convert Binary Number to Decimal and Decimal to Binary.<br><br>
 Program 20:<br>
-WAP to Convert Octal Number to Decimal and Decimal to Octal.
+WAP to Convert Octal Number to Decimal and Decimal to Octal.<br><br>
+Program 21:<br>
