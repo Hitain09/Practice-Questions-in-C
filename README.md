@@ -40,3 +40,4 @@ WAP to Convert Binary Number to Decimal and Decimal to Binary.<br><br>
 Program 20:<br>
 WAP to Convert Octal Number to Decimal and Decimal to Octal.<br><br>
 Program 21:<br>
+WAP to Find the Frequency of Characters in a String.
