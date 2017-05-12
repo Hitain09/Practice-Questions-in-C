@@ -36,3 +36,4 @@ WAP to Display Fibonacci Series.<br><br>
 Program 18:<br>
 WAP to find whether a number is Armstrong or not.<br><br>
 Program 19:<br>
+WAP to Convert Binary Number to Decimal and Decimal to Binary.
