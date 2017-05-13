@@ -46,3 +46,4 @@ WAP to Find the Number of Vowels, Consonants, Digits and White space in a String
 Program 23:<br>
 WAP to Reverse a String by passing it to Function.<br><br>
 Program 24:<br>
+WAP to Find the Length of a String.
