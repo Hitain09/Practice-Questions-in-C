@@ -42,4 +42,5 @@ WAP to Convert Octal Number to Decimal and Decimal to Octal.<br><br>
 Program 21:<br>
 WAP to Find the Frequency of Characters in a String.<br><br>
 Program 22:<br>
-WAP to Find the Number of Vowels, Consonants, Digits and White space in a String.
+WAP to Find the Number of Vowels, Consonants, Digits and White space in a String.<br><br>
+Program 23:<br>
