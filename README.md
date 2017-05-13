@@ -44,4 +44,5 @@ WAP to Find the Frequency of Characters in a String.<br><br>
 Program 22:<br>
 WAP to Find the Number of Vowels, Consonants, Digits and White space in a String.<br><br>
 Program 23:<br>
-WAP to Reverse a String by passing it to Function.
+WAP to Reverse a String by passing it to Function.<br><br>
+Program 24:<br>
