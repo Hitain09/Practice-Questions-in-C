@@ -50,3 +50,4 @@ WAP to Find the Length of a String.<br><br>
 Program 25:<br>
 WAP to Concatenate Two Strings.<br><br>
 Program 26:<br>
+WAP to Copy a String.
